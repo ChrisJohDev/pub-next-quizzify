@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import Logo from '../components/logo';
 import LogoName from '../components/logoName';
-import styles from '../styles/Home.module.css'
+import styles from '../styles/home.module.css'
 
 const Home: React.FC = () => {
   return (
